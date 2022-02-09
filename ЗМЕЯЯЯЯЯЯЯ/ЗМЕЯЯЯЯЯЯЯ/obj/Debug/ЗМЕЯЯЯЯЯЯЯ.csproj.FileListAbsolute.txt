@@ -1,0 +1,15 @@
+C:\Users\Artem\source\repos\ЗМЕЯЯЯЯЯЯЯ\ЗМЕЯЯЯЯЯЯЯ\bin\Debug\ЗМЕЯЯЯЯЯЯЯ.exe.config
+C:\Users\Artem\source\repos\ЗМЕЯЯЯЯЯЯЯ\ЗМЕЯЯЯЯЯЯЯ\bin\Debug\ЗМЕЯЯЯЯЯЯЯ.exe
+C:\Users\Artem\source\repos\ЗМЕЯЯЯЯЯЯЯ\ЗМЕЯЯЯЯЯЯЯ\bin\Debug\ЗМЕЯЯЯЯЯЯЯ.pdb
+C:\Users\Artem\source\repos\ЗМЕЯЯЯЯЯЯЯ\ЗМЕЯЯЯЯЯЯЯ\obj\Debug\ЗМЕЯЯЯЯЯЯЯ.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\ЗМЕЯЯЯЯЯЯЯ\ЗМЕЯЯЯЯЯЯЯ\obj\Debug\MainWindow.g.cs
+C:\Users\Artem\source\repos\ЗМЕЯЯЯЯЯЯЯ\ЗМЕЯЯЯЯЯЯЯ\obj\Debug\App.g.cs
+C:\Users\Artem\source\repos\ЗМЕЯЯЯЯЯЯЯ\ЗМЕЯЯЯЯЯЯЯ\obj\Debug\ЗМЕЯЯЯЯЯЯЯ_MarkupCompile.cache
+C:\Users\Artem\source\repos\ЗМЕЯЯЯЯЯЯЯ\ЗМЕЯЯЯЯЯЯЯ\obj\Debug\ЗМЕЯЯЯЯЯЯЯ_MarkupCompile.lref
+C:\Users\Artem\source\repos\ЗМЕЯЯЯЯЯЯЯ\ЗМЕЯЯЯЯЯЯЯ\obj\Debug\MainWindow.baml
+C:\Users\Artem\source\repos\ЗМЕЯЯЯЯЯЯЯ\ЗМЕЯЯЯЯЯЯЯ\obj\Debug\ЗМЕЯЯЯЯЯЯЯ.g.resources
+C:\Users\Artem\source\repos\ЗМЕЯЯЯЯЯЯЯ\ЗМЕЯЯЯЯЯЯЯ\obj\Debug\ЗМЕЯЯЯЯЯЯЯ.Properties.Resources.resources
+C:\Users\Artem\source\repos\ЗМЕЯЯЯЯЯЯЯ\ЗМЕЯЯЯЯЯЯЯ\obj\Debug\ЗМЕЯЯЯЯЯЯЯ.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\ЗМЕЯЯЯЯЯЯЯ\ЗМЕЯЯЯЯЯЯЯ\obj\Debug\ЗМЕЯЯЯЯЯЯЯ.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\ЗМЕЯЯЯЯЯЯЯ\ЗМЕЯЯЯЯЯЯЯ\obj\Debug\ЗМЕЯЯЯЯЯЯЯ.exe
+C:\Users\Artem\source\repos\ЗМЕЯЯЯЯЯЯЯ\ЗМЕЯЯЯЯЯЯЯ\obj\Debug\ЗМЕЯЯЯЯЯЯЯ.pdb
